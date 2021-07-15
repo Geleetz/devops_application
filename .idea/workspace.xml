@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a52f023f-585b-41f0-b69f-06664e233026" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vLTG1kwcWRq30Km6BE2COK0bOl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="DevOps_Application" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a52f023f-585b-41f0-b69f-06664e233026" name="Default Changelist" comment="" />
+      <created>1626340271622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626340271622</updated>
+      <workItem from="1626340293700" duration="4398000" />
+      <workItem from="1626345787993" duration="5601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="0" key="#Dockerfile" timestamp="1626340651078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="0" key="#Dockerfile/0.0.1536.824@0.0.1536.824" timestamp="1626340651078" />
+    <state x="361" y="72" key="#SQL_Dialects" timestamp="1626343286956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1626343286956" />
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1626340331436">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1626340331436" />
+    <state x="650" y="293" key="FileChooserDialogImpl" timestamp="1626346549716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="650" y="293" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626346549716" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1626357450770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626357450770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1626357450770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626357450770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1626357450770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626357450770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1626357450770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626357450770" />
+    <state x="318" y="0" key="SettingsEditor" timestamp="1626346654012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1626346654012" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1626347417176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1626347417176" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1626340292176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1626340292176" />
+    <state x="599" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1626346631688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1626346631688" />
+    <state x="209" y="34" key="new project wizard" timestamp="1626345708170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1626345708170" />
+  </component>
+</project>
